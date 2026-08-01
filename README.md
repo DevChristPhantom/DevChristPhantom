@@ -1,39 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Christian%20Atamari&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20de%20Software%20%26%20Sistemas%20%7C%20Software%20%26%20Systems%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0D1117&height=220&section=header&text=%3E%20Christian%20Atamari_&fontSize=44&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=root%40devchristphantom%3A~%23%20whoami%20%3E%3E%20Ingeniero%20de%20Software%20%26%20Sistemas&descAlignY=62&descSize=15&descColor=00FF41&fontAlign=50" width="100%"/>
 
 <a href="https://www.linkedin.com/in/christian-wilber-atamari-hancco-883b2132b">
-  <img src="https://img.shields.io/badge/LinkedIn-Christian%20Atamari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0D1117"/>
 </a>
 <a href="mailto:atamarichristiandev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-atamarichristiandev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D1117"/>
 </a>
 <a href="https://wa.me/51924278597">
-  <img src="https://img.shields.io/badge/WhatsApp-%2B51%20924%20278%20597-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=39FF14&labelColor=0D1117"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Estado-Disponible%20para%20oportunidades-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20work-success?style=flat-square"/>
-<img src="https://komarev.com/ghpvc/?username=DevChristPhantom&color=blueviolet&style=flat-square&label=Visitas+%2F+Views"/>
+<img src="https://img.shields.io/badge/STATUS-DISPONIBLE%20%2F%20OPEN%20TO%20WORK-000000?style=for-the-badge&labelColor=0D1117&color=000000"/>
+<img src="https://komarev.com/ghpvc/?username=DevChristPhantom&color=0D1117&style=for-the-badge&label=VIEWS"/>
 
 </div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=800&lines=Desarrollo+software+de+escritorio+que+resuelve+problemas+reales;I+build+desktop+software+that+solves+real+problems;Java+%7C+C%23+.NET%2FWPF+%7C+JavaScript+%7C+SQLite;Ingenieria+de+Software+y+Sistemas+-+UNAJ" alt="Typing SVG" width="100%"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&random=false&width=800&lines=%3E+Desarrollo+software+de+escritorio+que+resuelve+problemas+reales_;%3E+I+build+desktop+software+that+solves+real+problems_;%3E+Java+%7C+C%23+.NET%2FWPF+%7C+JavaScript+%7C+SQLite_;%3E+Ingenieria+de+Software+y+Sistemas+-+UNAJ_" alt="Typing SVG"/>
+</div>
 
-## 👋 Sobre mí · About me
+<br/>
+
+<table>
+<tr>
+<td width="60%" valign="middle">
 
 **🇪🇸** Estudiante de Ingeniería de Software y Sistemas (9no semestre, UNAJ), enfocado en construir **software de escritorio real para empresas**: sistemas de gestión de obra, inventarios y control administrativo, de punta a punta — desde la base de datos hasta la interfaz de usuario. Actualmente en prácticas pre-profesionales desarrollando **ObraTrack**, un sistema de control de costos de obra por partidas para una constructora vial.
 
 **🇬🇧** Software & Systems Engineering student (9th semester, UNAJ) focused on building **real desktop software for companies**: construction management, inventory and administrative control systems, end-to-end — from database to UI. Currently on a pre-professional internship building **ObraTrack**, a construction cost-control system for a road-construction company.
 
-- 🔭 Trabajando ahora en / Currently working on: **ObraTrack** (Java · Swing/FlatLaf · SQLite)
-- 🌱 Aprendiendo / Learning: **.NET / WPF (MVVM)** para aplicaciones de escritorio multiplataforma
-- 🎯 Buscando / Looking for: prácticas o primer empleo como desarrollador de software
-- 💬 Pregúntame sobre / Ask me about: Java, C#, bases de datos, apps de escritorio, automatización de procesos administrativos
+</td>
+<td width="40%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="100%"/>
+</td>
+</tr>
+</table>
+
+```bash
+root@devchristphantom:~$ cat status.log
+[✓] role       : Software & Systems Engineering student — 9no semestre / 9th semester
+[✓] building   : ObraTrack (Java · Swing/FlatLaf · SQLite) — en producción / in production
+[~] learning   : .NET / WPF (MVVM) desktop apps
+[✓] looking for: practicas / primer empleo como desarrollador — open to work
+[i] contact    : linkedin ~ email ~ whatsapp (ver arriba / see above)
+
+root@devchristphantom:~$ _
+```
 
 ---
 
@@ -84,13 +102,13 @@ Espacio de práctica orientado a desarrollo profesional de apps móviles y video
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=39FF14)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=39FF14)
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=39FF14)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=39FF14)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14)
+![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=39FF14)
 
 </div>
 
@@ -99,24 +117,36 @@ Espacio de práctica orientado a desarrollo profesional de apps móviles y video
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DevChristPhantom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevChristPhantom&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DevChristPhantom&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&border_color=39FF14&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevChristPhantom&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&border_color=39FF14" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=DevChristPhantom&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=DevChristPhantom&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&currStreakNum=39FF14&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&border=39FF14" width="70%"/>
+</div>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevChristPhantom/DevChristPhantom/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevChristPhantom/DevChristPhantom/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/DevChristPhantom/DevChristPhantom/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
 </div>
 
 ---
 
 <div align="center">
 
-### 📫 Hablemos · Let's talk
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:000000&height=100&section=footer"/>
 
 **LinkedIn:** [christian-wilber-atamari-hancco](https://www.linkedin.com/in/christian-wilber-atamari-hancco-883b2132b) &nbsp;·&nbsp;
 **Email:** [atamarichristiandev@gmail.com](mailto:atamarichristiandev@gmail.com) &nbsp;·&nbsp;
 **WhatsApp:** [+51 924 278 597](https://wa.me/51924278597)
 
-<sub>Gracias por visitar mi perfil 🚀 — Thanks for stopping by 🚀</sub>
+<sub>root@devchristphantom:~$ echo "gracias por visitar mi perfil · thanks for stopping by" 🚀</sub>
 
 </div>
